@@ -11,7 +11,7 @@ IO: Inner and outer
 IB: Inner and ball
 OB: Outer and ball
 N: Healthy (?)
-
+51.2kHz
 Sampling frequency: 51.2kHz
 File format: I402.mat
 •	I = Inner race fault
@@ -26,3 +26,5 @@ Only using zero load condition data
 uOttawa:
 Sampling frequency: 42kHz
 Ignored 'Developing faults'. Only using faulty and healthy data
+
+sampling modifer is to undersample the HUST dataset to match others
